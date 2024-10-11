@@ -2,9 +2,6 @@
 
 ### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![mld edit]("https://github.com/user-attachments/assets/4f45f7fd-56c1-4fe1-b6bb-f6097ec0d8bbhttps://github.com/user-attachments/assets/4f45f7fd-56c1-4fe1-b6bb-f6097ec0d8bb")
-
-
 
 The Live demo is available [Here]([https://mld-prototype.netlify.app](https://seacoast.vercel.app))
 
