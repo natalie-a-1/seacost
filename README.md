@@ -3,7 +3,7 @@
 ### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-The Live demo is available [Here]([https://mld-prototype.netlify.app](https://seacoast.vercel.app)
+The Live demo is available [Here](https://seacoast.vercel.app)
 
 ## Description
 
